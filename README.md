@@ -1,4 +1,4 @@
-# convertbin2gray
+# Convert Binary to Gray Code and Gray Code to Binary
 Converts Binary to Gray Code and Gray Code to Binary.
 Used String Manipulation in Python 3 and didn't use X-OR bit operation.
 Program works correctly for binary digits of more than or equal to 2. 
